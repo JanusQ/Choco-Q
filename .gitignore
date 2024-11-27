@@ -1,3 +1,17 @@
+build/
+dist/
+*.egg-info/
+.DS_Store
+__pycache__/
+*.pyc
+*/.ipynb_checkpoints/
+*.log
+*.key
+*_tool
+*_params_storage
+temp
+temp_expriment
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
