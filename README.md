@@ -68,8 +68,8 @@ If the installation fails, you may consider:
 ```
 
 ## Reproduce the experiments by Notebooks
-1. `implementations/0_test.ipynb` - Custom optimization problem and solve it.
+1. [implementations/0_test.ipynb](implementations/0_test.ipynb) - Custom optimization problem and solve it.
 
 
 
-2.  `implementations/1_table.ipynb` - Table 1 in the paper.
+2. [implementations/1_table.ipynb](implementations/1_table.ipynb) - Table 1 in the paper.
