@@ -1,3 +1,4 @@
+# nohup python3 2_table_all_scale.py > 2_table_all_scale.output 2>&1 &
 import os
 import time
 import csv
