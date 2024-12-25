@@ -1082,3 +1082,2182 @@ Restricted license - for non-production use only - expires 2025-11-24
 Restricted license - for non-production use only - expires 2025-11-24
 Restricted license - for non-production use only - expires 2025-11-24
 Restricted license - for non-production use only - expires 2025-11-24
+1-1, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+1-2, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+1-3, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+1-4, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+1-5, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+1-6, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+1-7, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+1-8, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+1-9, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Task for problem 1-0 L=5 PenaltySolver executed successfully.
+Task for problem 1-1 L=5 PenaltySolver executed successfully.
+Task for problem 1-2 L=5 PenaltySolver executed successfully.
+Task for problem 1-3 L=5 PenaltySolver executed successfully.
+Task for problem 1-4 L=5 PenaltySolver executed successfully.
+Task for problem 1-5 L=5 PenaltySolver executed successfully.
+Task for problem 1-6 L=5 PenaltySolver executed successfully.
+Task for problem 1-7 L=5 PenaltySolver executed successfully.
+Task for problem 1-8 L=5 PenaltySolver executed successfully.
+Task for problem 1-9 L=5 PenaltySolver executed successfully.
+1-0, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+1-1, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+1-2, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+1-3, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+1-4, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+1-5, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+1-6, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+1-7, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+1-8, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+1-9, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Task for problem 1-0 L=5 CyclicSolver executed successfully.
+Task for problem 1-1 L=5 CyclicSolver executed successfully.
+Task for problem 1-2 L=5 CyclicSolver executed successfully.
+Task for problem 1-3 L=5 CyclicSolver executed successfully.
+Task for problem 1-4 L=5 CyclicSolver executed successfully.
+Task for problem 1-5 L=5 CyclicSolver executed successfully.
+Task for problem 1-6 L=5 CyclicSolver executed successfully.
+Task for problem 1-7 L=5 CyclicSolver executed successfully.
+Task for problem 1-8 L=5 CyclicSolver executed successfully.
+Task for problem 1-9 L=5 CyclicSolver executed successfully.
+1-0, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+1-1, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+1-2, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+1-3, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+1-4, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+1-5, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+1-6, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+1-7, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+1-8, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+1-9, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Task for problem 1-0 L=5 HeaSolver executed successfully.
+Task for problem 1-1 L=5 HeaSolver executed successfully.
+Task for problem 1-2 L=5 HeaSolver executed successfully.
+Task for problem 1-3 L=5 HeaSolver executed successfully.
+Task for problem 1-4 L=5 HeaSolver executed successfully.
+Task for problem 1-5 L=5 HeaSolver executed successfully.
+Task for problem 1-6 L=5 HeaSolver executed successfully.
+Task for problem 1-7 L=5 HeaSolver executed successfully.
+Task for problem 1-8 L=5 HeaSolver executed successfully.
+Task for problem 1-9 L=5 HeaSolver executed successfully.
+1-0, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+1-1, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+1-2, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+1-3, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+1-4, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+1-5, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+1-6, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+1-7, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+1-8, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+1-9, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Task for problem 1-0 L=1 ChocoSolver executed successfully.
+Task for problem 1-1 L=1 ChocoSolver executed successfully.
+Task for problem 1-2 L=1 ChocoSolver executed successfully.
+Task for problem 1-3 L=1 ChocoSolver executed successfully.
+Task for problem 1-4 L=1 ChocoSolver executed successfully.
+Task for problem 1-5 L=1 ChocoSolver executed successfully.
+Task for problem 1-6 L=1 ChocoSolver executed successfully.
+Task for problem 1-7 L=1 ChocoSolver executed successfully.
+Task for problem 1-8 L=1 ChocoSolver executed successfully.
+Task for problem 1-9 L=1 ChocoSolver executed successfully.
+2-0, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+2-1, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+2-2, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+2-3, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+2-4, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+2-5, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+2-6, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+2-7, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+2-8, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+2-9, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Task for problem 2-0 L=5 PenaltySolver executed successfully.
+Task for problem 2-1 L=5 PenaltySolver executed successfully.
+Task for problem 2-2 L=5 PenaltySolver executed successfully.
+Task for problem 2-3 L=5 PenaltySolver executed successfully.
+Task for problem 2-4 L=5 PenaltySolver executed successfully.
+Task for problem 2-5 L=5 PenaltySolver executed successfully.
+Task for problem 2-6 L=5 PenaltySolver executed successfully.
+Task for problem 2-7 L=5 PenaltySolver executed successfully.
+Task for problem 2-8 L=5 PenaltySolver executed successfully.
+Task for problem 2-9 L=5 PenaltySolver executed successfully.
+2-0, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+2-1, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+2-2, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+2-3, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+2-4, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+2-5, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+2-6, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+2-7, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+2-8, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+2-9, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Task for problem 2-0 L=5 CyclicSolver executed successfully.
+Task for problem 2-1 L=5 CyclicSolver executed successfully.
+Task for problem 2-2 L=5 CyclicSolver executed successfully.
+Task for problem 2-3 L=5 CyclicSolver executed successfully.
+Task for problem 2-4 L=5 CyclicSolver executed successfully.
+Task for problem 2-5 L=5 CyclicSolver executed successfully.
+Task for problem 2-6 L=5 CyclicSolver executed successfully.
+Task for problem 2-7 L=5 CyclicSolver executed successfully.
+Task for problem 2-8 L=5 CyclicSolver executed successfully.
+Task for problem 2-9 L=5 CyclicSolver executed successfully.
+2-0, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+2-1, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+2-2, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+2-3, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+2-4, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+2-5, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+2-6, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+2-7, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+2-8, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+2-9, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Task for problem 2-0 L=5 HeaSolver executed successfully.
+Task for problem 2-1 L=5 HeaSolver executed successfully.
+Task for problem 2-2 L=5 HeaSolver executed successfully.
+Task for problem 2-3 L=5 HeaSolver executed successfully.
+Task for problem 2-4 L=5 HeaSolver executed successfully.
+Task for problem 2-5 L=5 HeaSolver executed successfully.
+Task for problem 2-6 L=5 HeaSolver executed successfully.
+Task for problem 2-7 L=5 HeaSolver executed successfully.
+Task for problem 2-8 L=5 HeaSolver executed successfully.
+Task for problem 2-9 L=5 HeaSolver executed successfully.
+2-0, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+2-1, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+2-2, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+2-3, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+2-4, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+2-5, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+2-6, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+2-7, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+2-8, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+2-9, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Task for problem 2-0 L=1 ChocoSolver executed successfully.
+Task for problem 2-1 L=1 ChocoSolver executed successfully.
+Task for problem 2-2 L=1 ChocoSolver executed successfully.
+Task for problem 2-3 L=1 ChocoSolver executed successfully.
+Task for problem 2-4 L=1 ChocoSolver executed successfully.
+Task for problem 2-5 L=1 ChocoSolver executed successfully.
+Task for problem 2-6 L=1 ChocoSolver executed successfully.
+Task for problem 2-7 L=1 ChocoSolver executed successfully.
+Task for problem 2-8 L=1 ChocoSolver executed successfully.
+Task for problem 2-9 L=1 ChocoSolver executed successfully.
+3-0, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+3-1, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+3-2, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+3-3, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+3-4, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+3-5, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+3-6, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+3-7, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+3-8, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+3-9, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Task for problem 3-0 L=5 PenaltySolver executed successfully.
+Task for problem 3-1 L=5 PenaltySolver executed successfully.
+Task for problem 3-2 L=5 PenaltySolver executed successfully.
+Task for problem 3-3 L=5 PenaltySolver executed successfully.
+Task for problem 3-4 L=5 PenaltySolver executed successfully.
+Task for problem 3-5 L=5 PenaltySolver executed successfully.
+Task for problem 3-6 L=5 PenaltySolver executed successfully.
+Task for problem 3-7 L=5 PenaltySolver executed successfully.
+Task for problem 3-8 L=5 PenaltySolver executed successfully.
+Task for problem 3-9 L=5 PenaltySolver executed successfully.
+3-0, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+3-1, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+3-2, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+3-3, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+3-4, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+3-5, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+3-6, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+3-7, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+3-8, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+3-9, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Task for problem 3-0 L=5 CyclicSolver executed successfully.
+Task for problem 3-1 L=5 CyclicSolver executed successfully.
+Task for problem 3-2 L=5 CyclicSolver executed successfully.
+Task for problem 3-3 L=5 CyclicSolver executed successfully.
+Task for problem 3-4 L=5 CyclicSolver executed successfully.
+Task for problem 3-5 L=5 CyclicSolver executed successfully.
+Task for problem 3-6 L=5 CyclicSolver executed successfully.
+Task for problem 3-7 L=5 CyclicSolver executed successfully.
+Task for problem 3-8 L=5 CyclicSolver executed successfully.
+Task for problem 3-9 L=5 CyclicSolver executed successfully.
+3-0, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+3-1, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+3-2, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+3-3, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+3-4, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+3-5, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+3-6, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+3-7, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+3-8, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+3-9, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Task for problem 3-0 L=5 HeaSolver executed successfully.
+Task for problem 3-1 L=5 HeaSolver executed successfully.
+Task for problem 3-2 L=5 HeaSolver executed successfully.
+Task for problem 3-3 L=5 HeaSolver executed successfully.
+Task for problem 3-4 L=5 HeaSolver executed successfully.
+Task for problem 3-5 L=5 HeaSolver executed successfully.
+Task for problem 3-6 L=5 HeaSolver executed successfully.
+Task for problem 3-7 L=5 HeaSolver executed successfully.
+Task for problem 3-8 L=5 HeaSolver executed successfully.
+Task for problem 3-9 L=5 HeaSolver executed successfully.
+3-0, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+3-1, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+3-2, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+3-3, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+3-4, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+3-5, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+3-6, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+3-7, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+3-8, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+3-9, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Task for problem 3-0 L=1 ChocoSolver executed successfully.
+Task for problem 3-1 L=1 ChocoSolver executed successfully.
+Task for problem 3-2 L=1 ChocoSolver executed successfully.
+Task for problem 3-3 L=1 ChocoSolver executed successfully.
+Task for problem 3-4 L=1 ChocoSolver executed successfully.
+Task for problem 3-5 L=1 ChocoSolver executed successfully.
+Task for problem 3-6 L=1 ChocoSolver executed successfully.
+Task for problem 3-7 L=1 ChocoSolver executed successfully.
+Task for problem 3-8 L=1 ChocoSolver executed successfully.
+Task for problem 3-9 L=1 ChocoSolver executed successfully.
+4-0, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+4-1, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+4-2, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+4-3, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+4-4, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+4-5, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+4-6, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+4-7, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+4-8, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+4-9, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Task for problem 4-0 L=5 PenaltySolver executed successfully.
+Task for problem 4-1 L=5 PenaltySolver executed successfully.
+Task for problem 4-2 L=5 PenaltySolver executed successfully.
+Task for problem 4-3 L=5 PenaltySolver executed successfully.
+Task for problem 4-4 L=5 PenaltySolver executed successfully.
+Task for problem 4-5 L=5 PenaltySolver executed successfully.
+Task for problem 4-6 L=5 PenaltySolver executed successfully.
+Task for problem 4-7 L=5 PenaltySolver executed successfully.
+Task for problem 4-8 L=5 PenaltySolver executed successfully.
+Task for problem 4-9 L=5 PenaltySolver executed successfully.
+4-0, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+4-1, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+4-2, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+4-3, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+4-4, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+4-5, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+4-6, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+4-7, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+4-8, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+4-9, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Task for problem 4-0 L=5 CyclicSolver executed successfully.
+Task for problem 4-1 L=5 CyclicSolver executed successfully.
+Task for problem 4-2 L=5 CyclicSolver executed successfully.
+Task for problem 4-3 L=5 CyclicSolver executed successfully.
+Task for problem 4-4 L=5 CyclicSolver executed successfully.
+Task for problem 4-5 L=5 CyclicSolver executed successfully.
+Task for problem 4-6 L=5 CyclicSolver executed successfully.
+Task for problem 4-7 L=5 CyclicSolver executed successfully.
+Task for problem 4-8 L=5 CyclicSolver executed successfully.
+Task for problem 4-9 L=5 CyclicSolver executed successfully.
+4-0, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+4-1, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+4-2, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+4-3, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+4-4, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+4-5, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+4-6, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+4-7, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+4-8, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+4-9, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Task for problem 4-0 L=5 HeaSolver executed successfully.
+Task for problem 4-1 L=5 HeaSolver executed successfully.
+Task for problem 4-2 L=5 HeaSolver executed successfully.
+Task for problem 4-3 L=5 HeaSolver executed successfully.
+Task for problem 4-4 L=5 HeaSolver executed successfully.
+Task for problem 4-5 L=5 HeaSolver executed successfully.
+Task for problem 4-6 L=5 HeaSolver executed successfully.
+Task for problem 4-7 L=5 HeaSolver executed successfully.
+Task for problem 4-8 L=5 HeaSolver executed successfully.
+Task for problem 4-9 L=5 HeaSolver executed successfully.
+4-0, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+4-1, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+4-2, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+4-3, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+4-4, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+4-5, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+4-6, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+4-7, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+4-8, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+4-9, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Task for problem 4-0 L=1 ChocoSolver executed successfully.
+Task for problem 4-1 L=1 ChocoSolver executed successfully.
+Task for problem 4-2 L=1 ChocoSolver executed successfully.
+Task for problem 4-3 L=1 ChocoSolver executed successfully.
+Task for problem 4-4 L=1 ChocoSolver executed successfully.
+Task for problem 4-5 L=1 ChocoSolver executed successfully.
+Task for problem 4-6 L=1 ChocoSolver executed successfully.
+Task for problem 4-7 L=1 ChocoSolver executed successfully.
+Task for problem 4-8 L=1 ChocoSolver executed successfully.
+Task for problem 4-9 L=1 ChocoSolver executed successfully.
+5-0, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+5-1, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+5-2, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+5-3, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+5-4, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+5-5, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+5-6, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+5-7, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+5-8, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+5-9, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Task for problem 5-0 L=5 PenaltySolver executed successfully.
+Task for problem 5-1 L=5 PenaltySolver executed successfully.
+Task for problem 5-2 L=5 PenaltySolver executed successfully.
+Task for problem 5-3 L=5 PenaltySolver executed successfully.
+Task for problem 5-4 L=5 PenaltySolver executed successfully.
+Task for problem 5-5 L=5 PenaltySolver executed successfully.
+Task for problem 5-6 L=5 PenaltySolver executed successfully.
+Task for problem 5-7 L=5 PenaltySolver executed successfully.
+Task for problem 5-8 L=5 PenaltySolver executed successfully.
+Task for problem 5-9 L=5 PenaltySolver executed successfully.
+5-0, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+5-1, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+5-2, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+5-3, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+5-4, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+5-5, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+5-6, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+5-7, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+5-8, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+5-9, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Task for problem 5-0 L=5 CyclicSolver executed successfully.
+Task for problem 5-1 L=5 CyclicSolver executed successfully.
+Task for problem 5-2 L=5 CyclicSolver executed successfully.
+Task for problem 5-3 L=5 CyclicSolver executed successfully.
+Task for problem 5-4 L=5 CyclicSolver executed successfully.
+Task for problem 5-5 L=5 CyclicSolver executed successfully.
+Task for problem 5-6 L=5 CyclicSolver executed successfully.
+Task for problem 5-7 L=5 CyclicSolver executed successfully.
+Task for problem 5-8 L=5 CyclicSolver executed successfully.
+Task for problem 5-9 L=5 CyclicSolver executed successfully.
+5-0, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+5-1, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+5-2, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+5-3, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+5-4, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+5-5, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+5-6, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+5-7, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+5-8, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+5-9, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Task for problem 5-0 L=5 HeaSolver executed successfully.
+Task for problem 5-1 L=5 HeaSolver executed successfully.
+Task for problem 5-2 L=5 HeaSolver executed successfully.
+Task for problem 5-3 L=5 HeaSolver executed successfully.
+Task for problem 5-4 L=5 HeaSolver executed successfully.
+Task for problem 5-5 L=5 HeaSolver executed successfully.
+Task for problem 5-6 L=5 HeaSolver executed successfully.
+Task for problem 5-7 L=5 HeaSolver executed successfully.
+Task for problem 5-8 L=5 HeaSolver executed successfully.
+Task for problem 5-9 L=5 HeaSolver executed successfully.
+5-0, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+5-1, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+5-2, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+5-3, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+5-4, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+5-5, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+5-6, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+5-7, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+5-8, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+5-9, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Task for problem 5-0 L=1 ChocoSolver executed successfully.
+Task for problem 5-1 L=1 ChocoSolver executed successfully.
+Task for problem 5-2 L=1 ChocoSolver executed successfully.
+Task for problem 5-3 L=1 ChocoSolver executed successfully.
+Task for problem 5-4 L=1 ChocoSolver executed successfully.
+Task for problem 5-5 L=1 ChocoSolver executed successfully.
+Task for problem 5-6 L=1 ChocoSolver executed successfully.
+Task for problem 5-7 L=1 ChocoSolver executed successfully.
+Task for problem 5-8 L=1 ChocoSolver executed successfully.
+Task for problem 5-9 L=1 ChocoSolver executed successfully.
+6-0, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+6-1, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+6-2, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+6-3, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+6-4, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+6-5, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+6-6, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+6-7, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+6-8, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+6-9, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Task for problem 6-0 L=5 PenaltySolver executed successfully.
+Task for problem 6-1 L=5 PenaltySolver executed successfully.
+Task for problem 6-2 L=5 PenaltySolver executed successfully.
+Task for problem 6-3 L=5 PenaltySolver executed successfully.
+Task for problem 6-4 L=5 PenaltySolver executed successfully.
+Task for problem 6-5 L=5 PenaltySolver executed successfully.
+Task for problem 6-6 L=5 PenaltySolver executed successfully.
+Task for problem 6-7 L=5 PenaltySolver executed successfully.
+Task for problem 6-8 L=5 PenaltySolver executed successfully.
+Task for problem 6-9 L=5 PenaltySolver executed successfully.
+6-0, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+6-1, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+6-2, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+6-3, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+6-4, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+6-5, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+6-6, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+6-7, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+6-8, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+6-9, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Task for problem 6-0 L=5 CyclicSolver executed successfully.
+Task for problem 6-1 L=5 CyclicSolver executed successfully.
+Task for problem 6-2 L=5 CyclicSolver executed successfully.
+Task for problem 6-3 L=5 CyclicSolver executed successfully.
+Task for problem 6-4 L=5 CyclicSolver executed successfully.
+Task for problem 6-5 L=5 CyclicSolver executed successfully.
+Task for problem 6-6 L=5 CyclicSolver executed successfully.
+Task for problem 6-7 L=5 CyclicSolver executed successfully.
+Task for problem 6-8 L=5 CyclicSolver executed successfully.
+Task for problem 6-9 L=5 CyclicSolver executed successfully.
+6-0, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+6-1, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+6-2, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+6-3, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+6-4, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+6-5, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+6-6, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+6-7, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+6-8, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+6-9, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Task for problem 6-0 L=5 HeaSolver executed successfully.
+Task for problem 6-1 L=5 HeaSolver executed successfully.
+Task for problem 6-2 L=5 HeaSolver executed successfully.
+Task for problem 6-3 L=5 HeaSolver executed successfully.
+Task for problem 6-4 L=5 HeaSolver executed successfully.
+Task for problem 6-5 L=5 HeaSolver executed successfully.
+Task for problem 6-6 L=5 HeaSolver executed successfully.
+Task for problem 6-7 L=5 HeaSolver executed successfully.
+Task for problem 6-8 L=5 HeaSolver executed successfully.
+Task for problem 6-9 L=5 HeaSolver executed successfully.
+6-0, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+6-1, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+6-2, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+6-3, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+6-4, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+6-5, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+6-6, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+6-7, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+6-8, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+6-9, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Task for problem 6-0 L=1 ChocoSolver executed successfully.
+Task for problem 6-1 L=1 ChocoSolver executed successfully.
+Task for problem 6-2 L=1 ChocoSolver executed successfully.
+Task for problem 6-3 L=1 ChocoSolver executed successfully.
+Task for problem 6-4 L=1 ChocoSolver executed successfully.
+Task for problem 6-5 L=1 ChocoSolver executed successfully.
+Task for problem 6-6 L=1 ChocoSolver executed successfully.
+Task for problem 6-7 L=1 ChocoSolver executed successfully.
+Task for problem 6-8 L=1 ChocoSolver executed successfully.
+Task for problem 6-9 L=1 ChocoSolver executed successfully.
+7-0, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+7-1, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+7-2, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+7-3, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+7-4, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+7-5, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+7-6, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+7-7, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+7-8, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+7-9, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Task for problem 7-0 L=5 PenaltySolver executed successfully.
+Task for problem 7-1 L=5 PenaltySolver executed successfully.
+Task for problem 7-2 L=5 PenaltySolver executed successfully.
+Task for problem 7-3 L=5 PenaltySolver executed successfully.
+Task for problem 7-4 L=5 PenaltySolver executed successfully.
+Task for problem 7-5 L=5 PenaltySolver executed successfully.
+Task for problem 7-6 L=5 PenaltySolver executed successfully.
+Task for problem 7-7 L=5 PenaltySolver executed successfully.
+Task for problem 7-8 L=5 PenaltySolver executed successfully.
+Task for problem 7-9 L=5 PenaltySolver executed successfully.
+7-0, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+7-1, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+7-2, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+7-3, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+7-4, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+7-5, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+7-6, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+7-7, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+7-8, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+7-9, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Task for problem 7-0 L=5 CyclicSolver executed successfully.
+Task for problem 7-1 L=5 CyclicSolver executed successfully.
+Task for problem 7-2 L=5 CyclicSolver executed successfully.
+Task for problem 7-3 L=5 CyclicSolver executed successfully.
+Task for problem 7-4 L=5 CyclicSolver executed successfully.
+Task for problem 7-5 L=5 CyclicSolver executed successfully.
+Task for problem 7-6 L=5 CyclicSolver executed successfully.
+Task for problem 7-7 L=5 CyclicSolver executed successfully.
+Task for problem 7-8 L=5 CyclicSolver executed successfully.
+Task for problem 7-9 L=5 CyclicSolver executed successfully.
+7-0, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+7-1, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+7-2, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+7-3, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+7-4, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+7-5, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+7-6, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+7-7, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+7-8, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+7-9, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Task for problem 7-0 L=5 HeaSolver executed successfully.
+Task for problem 7-1 L=5 HeaSolver executed successfully.
+Task for problem 7-2 L=5 HeaSolver executed successfully.
+Task for problem 7-3 L=5 HeaSolver executed successfully.
+Task for problem 7-4 L=5 HeaSolver executed successfully.
+Task for problem 7-5 L=5 HeaSolver executed successfully.
+Task for problem 7-6 L=5 HeaSolver executed successfully.
+Task for problem 7-7 L=5 HeaSolver executed successfully.
+Task for problem 7-8 L=5 HeaSolver executed successfully.
+Task for problem 7-9 L=5 HeaSolver executed successfully.
+7-0, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+7-1, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+7-2, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+7-3, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+7-4, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+7-5, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+7-6, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+7-7, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+7-8, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+7-9, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Task for problem 7-0 L=1 ChocoSolver executed successfully.
+Task for problem 7-1 L=1 ChocoSolver executed successfully.
+Task for problem 7-2 L=1 ChocoSolver executed successfully.
+Task for problem 7-3 L=1 ChocoSolver executed successfully.
+Task for problem 7-4 L=1 ChocoSolver executed successfully.
+Task for problem 7-5 L=1 ChocoSolver executed successfully.
+Task for problem 7-6 L=1 ChocoSolver executed successfully.
+Task for problem 7-7 L=1 ChocoSolver executed successfully.
+Task for problem 7-8 L=1 ChocoSolver executed successfully.
+Task for problem 7-9 L=1 ChocoSolver executed successfully.
+8-0, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+8-1, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+8-2, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+8-3, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+8-4, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+8-5, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+8-6, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+8-7, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+8-8, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+8-9, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Task for problem 8-0 L=5 PenaltySolver executed successfully.
+Task for problem 8-1 L=5 PenaltySolver executed successfully.
+Task for problem 8-2 L=5 PenaltySolver executed successfully.
+Task for problem 8-3 L=5 PenaltySolver executed successfully.
+Task for problem 8-4 L=5 PenaltySolver executed successfully.
+Task for problem 8-5 L=5 PenaltySolver executed successfully.
+Task for problem 8-6 L=5 PenaltySolver executed successfully.
+Task for problem 8-7 L=5 PenaltySolver executed successfully.
+Task for problem 8-8 L=5 PenaltySolver executed successfully.
+Task for problem 8-9 L=5 PenaltySolver executed successfully.
+8-0, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+8-1, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+8-2, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+8-3, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+8-4, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+8-5, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+8-6, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+8-7, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+8-8, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+8-9, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Task for problem 8-0 L=5 CyclicSolver executed successfully.
+Task for problem 8-1 L=5 CyclicSolver executed successfully.
+Task for problem 8-2 L=5 CyclicSolver executed successfully.
+Task for problem 8-3 L=5 CyclicSolver executed successfully.
+Task for problem 8-4 L=5 CyclicSolver executed successfully.
+Task for problem 8-5 L=5 CyclicSolver executed successfully.
+Task for problem 8-6 L=5 CyclicSolver executed successfully.
+Task for problem 8-7 L=5 CyclicSolver executed successfully.
+Task for problem 8-8 L=5 CyclicSolver executed successfully.
+Task for problem 8-9 L=5 CyclicSolver executed successfully.
+8-0, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+8-1, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+8-2, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+8-3, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+8-4, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+8-5, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+8-6, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+8-7, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+8-8, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+8-9, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Task for problem 8-0 L=5 HeaSolver executed successfully.
+Task for problem 8-1 L=5 HeaSolver executed successfully.
+Task for problem 8-2 L=5 HeaSolver executed successfully.
+Task for problem 8-3 L=5 HeaSolver executed successfully.
+Task for problem 8-4 L=5 HeaSolver executed successfully.
+Task for problem 8-5 L=5 HeaSolver executed successfully.
+Task for problem 8-6 L=5 HeaSolver executed successfully.
+Task for problem 8-7 L=5 HeaSolver executed successfully.
+Task for problem 8-8 L=5 HeaSolver executed successfully.
+Task for problem 8-9 L=5 HeaSolver executed successfully.
+8-0, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+8-1, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+8-2, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+8-3, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+8-4, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+8-5, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+8-6, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+8-7, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+8-8, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+8-9, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Task for problem 8-0 L=1 ChocoSolver executed successfully.
+Task for problem 8-1 L=1 ChocoSolver executed successfully.
+Task for problem 8-2 L=1 ChocoSolver executed successfully.
+Task for problem 8-3 L=1 ChocoSolver executed successfully.
+Task for problem 8-4 L=1 ChocoSolver executed successfully.
+Task for problem 8-5 L=1 ChocoSolver executed successfully.
+Task for problem 8-6 L=1 ChocoSolver executed successfully.
+Task for problem 8-7 L=1 ChocoSolver executed successfully.
+Task for problem 8-8 L=1 ChocoSolver executed successfully.
+Task for problem 8-9 L=1 ChocoSolver executed successfully.
+9-0, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+9-1, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+9-2, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+9-3, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+9-4, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+9-5, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+9-6, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+9-7, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+9-8, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+9-9, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Task for problem 9-0 L=5 PenaltySolver executed successfully.
+Task for problem 9-1 L=5 PenaltySolver executed successfully.
+Task for problem 9-2 L=5 PenaltySolver executed successfully.
+Task for problem 9-3 L=5 PenaltySolver executed successfully.
+Task for problem 9-4 L=5 PenaltySolver executed successfully.
+Task for problem 9-5 L=5 PenaltySolver executed successfully.
+Task for problem 9-6 L=5 PenaltySolver executed successfully.
+Task for problem 9-7 L=5 PenaltySolver executed successfully.
+Task for problem 9-8 L=5 PenaltySolver executed successfully.
+Task for problem 9-9 L=5 PenaltySolver executed successfully.
+9-0, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+9-1, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+9-2, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+9-3, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+9-4, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+9-5, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+9-6, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+9-7, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+9-8, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+9-9, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Task for problem 9-0 L=5 CyclicSolver executed successfully.
+Task for problem 9-1 L=5 CyclicSolver executed successfully.
+Task for problem 9-2 L=5 CyclicSolver executed successfully.
+Task for problem 9-3 L=5 CyclicSolver executed successfully.
+Task for problem 9-4 L=5 CyclicSolver executed successfully.
+Task for problem 9-5 L=5 CyclicSolver executed successfully.
+Task for problem 9-6 L=5 CyclicSolver executed successfully.
+Task for problem 9-7 L=5 CyclicSolver executed successfully.
+Task for problem 9-8 L=5 CyclicSolver executed successfully.
+Task for problem 9-9 L=5 CyclicSolver executed successfully.
+9-0, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+9-1, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+9-2, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+9-3, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+9-4, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+9-5, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+9-6, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+9-7, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+9-8, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+9-9, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Task for problem 9-0 L=5 HeaSolver executed successfully.
+Task for problem 9-1 L=5 HeaSolver executed successfully.
+Task for problem 9-2 L=5 HeaSolver executed successfully.
+Task for problem 9-3 L=5 HeaSolver executed successfully.
+Task for problem 9-4 L=5 HeaSolver executed successfully.
+Task for problem 9-5 L=5 HeaSolver executed successfully.
+Task for problem 9-6 L=5 HeaSolver executed successfully.
+Task for problem 9-7 L=5 HeaSolver executed successfully.
+Task for problem 9-8 L=5 HeaSolver executed successfully.
+Task for problem 9-9 L=5 HeaSolver executed successfully.
+9-0, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+9-1, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+9-2, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+9-3, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+9-4, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+9-5, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+9-6, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+9-7, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+9-8, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+9-9, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Task for problem 9-0 L=1 ChocoSolver executed successfully.
+Task for problem 9-1 L=1 ChocoSolver executed successfully.
+Task for problem 9-2 L=1 ChocoSolver executed successfully.
+Task for problem 9-3 L=1 ChocoSolver executed successfully.
+Task for problem 9-4 L=1 ChocoSolver executed successfully.
+Task for problem 9-5 L=1 ChocoSolver executed successfully.
+Task for problem 9-6 L=1 ChocoSolver executed successfully.
+Task for problem 9-7 L=1 ChocoSolver executed successfully.
+Task for problem 9-8 L=1 ChocoSolver executed successfully.
+Task for problem 9-9 L=1 ChocoSolver executed successfully.
+10-0, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+10-1, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+10-2, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+10-3, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+10-4, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+10-5, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+10-6, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+10-7, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+10-8, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+10-9, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Task for problem 10-0 L=5 PenaltySolver executed successfully.
+Task for problem 10-1 L=5 PenaltySolver executed successfully.
+Task for problem 10-2 L=5 PenaltySolver executed successfully.
+Task for problem 10-3 L=5 PenaltySolver executed successfully.
+Task for problem 10-4 L=5 PenaltySolver executed successfully.
+Task for problem 10-5 L=5 PenaltySolver executed successfully.
+Task for problem 10-6 L=5 PenaltySolver executed successfully.
+Task for problem 10-7 L=5 PenaltySolver executed successfully.
+Task for problem 10-8 L=5 PenaltySolver executed successfully.
+Task for problem 10-9 L=5 PenaltySolver executed successfully.
+10-0, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+10-1, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+10-2, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+10-3, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+10-4, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+10-5, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+10-6, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+10-7, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+10-8, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+10-9, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Task for problem 10-0 L=5 CyclicSolver executed successfully.
+Task for problem 10-1 L=5 CyclicSolver executed successfully.
+Task for problem 10-2 L=5 CyclicSolver executed successfully.
+Task for problem 10-3 L=5 CyclicSolver executed successfully.
+Task for problem 10-4 L=5 CyclicSolver executed successfully.
+Task for problem 10-5 L=5 CyclicSolver executed successfully.
+Task for problem 10-6 L=5 CyclicSolver executed successfully.
+Task for problem 10-7 L=5 CyclicSolver executed successfully.
+Task for problem 10-8 L=5 CyclicSolver executed successfully.
+Task for problem 10-9 L=5 CyclicSolver executed successfully.
+10-0, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+10-1, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+10-2, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+10-3, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+10-4, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+10-5, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+10-6, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+10-7, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+10-8, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+10-9, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Task for problem 10-0 L=5 HeaSolver executed successfully.
+Task for problem 10-1 L=5 HeaSolver executed successfully.
+Task for problem 10-2 L=5 HeaSolver executed successfully.
+Task for problem 10-3 L=5 HeaSolver executed successfully.
+Task for problem 10-4 L=5 HeaSolver executed successfully.
+Task for problem 10-5 L=5 HeaSolver executed successfully.
+Task for problem 10-6 L=5 HeaSolver executed successfully.
+Task for problem 10-7 L=5 HeaSolver executed successfully.
+Task for problem 10-8 L=5 HeaSolver executed successfully.
+Task for problem 10-9 L=5 HeaSolver executed successfully.
+10-0, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+10-1, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+10-2, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+10-3, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+10-4, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+10-5, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+10-6, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+10-7, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+10-8, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+10-9, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Task for problem 10-0 L=1 ChocoSolver executed successfully.
+Task for problem 10-1 L=1 ChocoSolver executed successfully.
+Task for problem 10-2 L=1 ChocoSolver executed successfully.
+Task for problem 10-3 L=1 ChocoSolver executed successfully.
+Task for problem 10-4 L=1 ChocoSolver executed successfully.
+Task for problem 10-5 L=1 ChocoSolver executed successfully.
+Task for problem 10-6 L=1 ChocoSolver executed successfully.
+Task for problem 10-7 L=1 ChocoSolver executed successfully.
+Task for problem 10-8 L=1 ChocoSolver executed successfully.
+Task for problem 10-9 L=1 ChocoSolver executed successfully.
+11-0, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+11-1, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+11-2, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+11-3, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+11-4, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+11-5, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+11-6, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+11-7, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+11-8, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+11-9, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Task for problem 11-0 L=5 PenaltySolver executed successfully.
+Task for problem 11-1 L=5 PenaltySolver executed successfully.
+Task for problem 11-2 L=5 PenaltySolver executed successfully.
+Task for problem 11-3 L=5 PenaltySolver executed successfully.
+Task for problem 11-4 L=5 PenaltySolver executed successfully.
+Task for problem 11-5 L=5 PenaltySolver executed successfully.
+Task for problem 11-6 L=5 PenaltySolver executed successfully.
+Task for problem 11-7 L=5 PenaltySolver executed successfully.
+Task for problem 11-8 L=5 PenaltySolver executed successfully.
+Task for problem 11-9 L=5 PenaltySolver executed successfully.
+11-0, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+11-1, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+11-2, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+11-3, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+11-4, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+11-5, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+11-6, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+11-7, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+11-8, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+11-9, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Task for problem 11-0 L=5 CyclicSolver executed successfully.
+Task for problem 11-1 L=5 CyclicSolver executed successfully.
+Task for problem 11-2 L=5 CyclicSolver executed successfully.
+Task for problem 11-3 L=5 CyclicSolver executed successfully.
+Task for problem 11-4 L=5 CyclicSolver executed successfully.
+Task for problem 11-5 L=5 CyclicSolver executed successfully.
+Task for problem 11-6 L=5 CyclicSolver executed successfully.
+Task for problem 11-7 L=5 CyclicSolver executed successfully.
+Task for problem 11-8 L=5 CyclicSolver executed successfully.
+Task for problem 11-9 L=5 CyclicSolver executed successfully.
+11-0, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+11-1, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+11-2, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+11-3, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+11-4, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+11-5, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+11-6, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+11-7, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+11-8, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+11-9, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Task for problem 11-0 L=5 HeaSolver executed successfully.
+Task for problem 11-1 L=5 HeaSolver executed successfully.
+Task for problem 11-2 L=5 HeaSolver executed successfully.
+Task for problem 11-3 L=5 HeaSolver executed successfully.
+Task for problem 11-4 L=5 HeaSolver executed successfully.
+Task for problem 11-5 L=5 HeaSolver executed successfully.
+Task for problem 11-6 L=5 HeaSolver executed successfully.
+Task for problem 11-7 L=5 HeaSolver executed successfully.
+Task for problem 11-8 L=5 HeaSolver executed successfully.
+Task for problem 11-9 L=5 HeaSolver executed successfully.
+11-0, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+11-1, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+11-2, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+11-3, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+11-4, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+11-5, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+11-6, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+11-7, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+11-8, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+11-9, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Task for problem 11-0 L=1 ChocoSolver executed successfully.
+Task for problem 11-1 L=1 ChocoSolver executed successfully.
+Task for problem 11-2 L=1 ChocoSolver executed successfully.
+Task for problem 11-3 L=1 ChocoSolver executed successfully.
+Task for problem 11-4 L=1 ChocoSolver executed successfully.
+Task for problem 11-5 L=1 ChocoSolver executed successfully.
+Task for problem 11-6 L=1 ChocoSolver executed successfully.
+Task for problem 11-7 L=1 ChocoSolver executed successfully.
+Task for problem 11-8 L=1 ChocoSolver executed successfully.
+Task for problem 11-9 L=1 ChocoSolver executed successfully.
+12-0, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+12-1, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+12-2, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+12-3, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+12-4, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+12-5, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+12-6, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+12-7, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+12-8, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+12-9, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Task for problem 12-0 L=5 PenaltySolver executed successfully.
+Task for problem 12-1 L=5 PenaltySolver executed successfully.
+Task for problem 12-2 L=5 PenaltySolver executed successfully.
+Task for problem 12-3 L=5 PenaltySolver executed successfully.
+Task for problem 12-4 L=5 PenaltySolver executed successfully.
+Task for problem 12-5 L=5 PenaltySolver executed successfully.
+Task for problem 12-6 L=5 PenaltySolver executed successfully.
+Task for problem 12-7 L=5 PenaltySolver executed successfully.
+Task for problem 12-8 L=5 PenaltySolver executed successfully.
+Task for problem 12-9 L=5 PenaltySolver executed successfully.
+12-0, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+12-1, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+12-2, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+12-3, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+12-4, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+12-5, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+12-6, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+12-7, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+12-8, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+12-9, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Task for problem 12-0 L=5 CyclicSolver executed successfully.
+Task for problem 12-1 L=5 CyclicSolver executed successfully.
+Task for problem 12-2 L=5 CyclicSolver executed successfully.
+Task for problem 12-3 L=5 CyclicSolver executed successfully.
+Task for problem 12-4 L=5 CyclicSolver executed successfully.
+Task for problem 12-5 L=5 CyclicSolver executed successfully.
+Task for problem 12-6 L=5 CyclicSolver executed successfully.
+Task for problem 12-7 L=5 CyclicSolver executed successfully.
+Task for problem 12-8 L=5 CyclicSolver executed successfully.
+Task for problem 12-9 L=5 CyclicSolver executed successfully.
+12-0, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+12-1, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+12-2, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+12-3, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+12-4, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+12-5, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+12-6, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+12-7, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+12-8, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+12-9, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Task for problem 12-0 L=5 HeaSolver executed successfully.
+Task for problem 12-1 L=5 HeaSolver executed successfully.
+Task for problem 12-2 L=5 HeaSolver executed successfully.
+Task for problem 12-3 L=5 HeaSolver executed successfully.
+Task for problem 12-4 L=5 HeaSolver executed successfully.
+Task for problem 12-5 L=5 HeaSolver executed successfully.
+Task for problem 12-6 L=5 HeaSolver executed successfully.
+Task for problem 12-7 L=5 HeaSolver executed successfully.
+Task for problem 12-8 L=5 HeaSolver executed successfully.
+Task for problem 12-9 L=5 HeaSolver executed successfully.
+12-0, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+12-1, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+12-2, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+12-3, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+12-4, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+12-5, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+12-6, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+12-7, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+12-8, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+12-9, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Task for problem 12-0 L=1 ChocoSolver executed successfully.
+Task for problem 12-1 L=1 ChocoSolver executed successfully.
+Task for problem 12-2 L=1 ChocoSolver executed successfully.
+Task for problem 12-3 L=1 ChocoSolver executed successfully.
+Task for problem 12-4 L=1 ChocoSolver executed successfully.
+Task for problem 12-5 L=1 ChocoSolver executed successfully.
+Task for problem 12-6 L=1 ChocoSolver executed successfully.
+Task for problem 12-7 L=1 ChocoSolver executed successfully.
+Task for problem 12-8 L=1 ChocoSolver executed successfully.
+Task for problem 12-9 L=1 ChocoSolver executed successfully.
+13-0, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+13-1, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+13-2, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+13-3, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+13-4, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+13-5, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+13-6, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+13-7, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+13-8, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+13-9, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Task for problem 13-0 L=5 PenaltySolver executed successfully.
+Task for problem 13-1 L=5 PenaltySolver executed successfully.
+Task for problem 13-2 L=5 PenaltySolver executed successfully.
+Task for problem 13-3 L=5 PenaltySolver executed successfully.
+Task for problem 13-4 L=5 PenaltySolver executed successfully.
+Task for problem 13-5 L=5 PenaltySolver executed successfully.
+Task for problem 13-6 L=5 PenaltySolver executed successfully.
+Task for problem 13-7 L=5 PenaltySolver executed successfully.
+Task for problem 13-8 L=5 PenaltySolver executed successfully.
+Task for problem 13-9 L=5 PenaltySolver executed successfully.
+13-0, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+13-1, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+13-2, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+13-3, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+13-4, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+13-5, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+13-6, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+13-7, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+13-8, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+13-9, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Task for problem 13-0 L=5 CyclicSolver executed successfully.
+Task for problem 13-1 L=5 CyclicSolver executed successfully.
+Task for problem 13-2 L=5 CyclicSolver executed successfully.
+Task for problem 13-3 L=5 CyclicSolver executed successfully.
+Task for problem 13-4 L=5 CyclicSolver executed successfully.
+Task for problem 13-5 L=5 CyclicSolver executed successfully.
+Task for problem 13-6 L=5 CyclicSolver executed successfully.
+Task for problem 13-7 L=5 CyclicSolver executed successfully.
+Task for problem 13-8 L=5 CyclicSolver executed successfully.
+Task for problem 13-9 L=5 CyclicSolver executed successfully.
+13-0, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+13-1, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+13-2, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+13-3, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+13-4, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+13-5, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+13-6, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+13-7, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+13-8, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+13-9, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Task for problem 13-0 L=5 HeaSolver executed successfully.
+Task for problem 13-1 L=5 HeaSolver executed successfully.
+Task for problem 13-2 L=5 HeaSolver executed successfully.
+Task for problem 13-3 L=5 HeaSolver executed successfully.
+Task for problem 13-4 L=5 HeaSolver executed successfully.
+Task for problem 13-5 L=5 HeaSolver executed successfully.
+Task for problem 13-6 L=5 HeaSolver executed successfully.
+Task for problem 13-7 L=5 HeaSolver executed successfully.
+Task for problem 13-8 L=5 HeaSolver executed successfully.
+Task for problem 13-9 L=5 HeaSolver executed successfully.
+13-0, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+13-1, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+13-2, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+13-3, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+13-4, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+13-5, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+13-6, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+13-7, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+13-8, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+13-9, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Task for problem 13-0 L=1 ChocoSolver executed successfully.
+Task for problem 13-1 L=1 ChocoSolver executed successfully.
+Task for problem 13-2 L=1 ChocoSolver executed successfully.
+Task for problem 13-3 L=1 ChocoSolver executed successfully.
+Task for problem 13-4 L=1 ChocoSolver executed successfully.
+Task for problem 13-5 L=1 ChocoSolver executed successfully.
+Task for problem 13-6 L=1 ChocoSolver executed successfully.
+Task for problem 13-7 L=1 ChocoSolver executed successfully.
+Task for problem 13-8 L=1 ChocoSolver executed successfully.
+Task for problem 13-9 L=1 ChocoSolver executed successfully.
+14-0, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+14-1, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+14-2, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+14-3, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+14-4, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+14-5, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+14-6, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+14-7, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+14-8, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+14-9, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Task for problem 14-0 L=5 PenaltySolver executed successfully.
+Task for problem 14-1 L=5 PenaltySolver executed successfully.
+Task for problem 14-2 L=5 PenaltySolver executed successfully.
+Task for problem 14-3 L=5 PenaltySolver executed successfully.
+Task for problem 14-4 L=5 PenaltySolver executed successfully.
+Task for problem 14-5 L=5 PenaltySolver executed successfully.
+Task for problem 14-6 L=5 PenaltySolver executed successfully.
+Task for problem 14-7 L=5 PenaltySolver executed successfully.
+Task for problem 14-8 L=5 PenaltySolver executed successfully.
+Task for problem 14-9 L=5 PenaltySolver executed successfully.
+14-0, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+14-1, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+14-2, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+14-3, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+14-4, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+14-5, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+14-6, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+14-7, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+14-8, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+14-9, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Task for problem 14-0 L=5 CyclicSolver executed successfully.
+Task for problem 14-1 L=5 CyclicSolver executed successfully.
+Task for problem 14-2 L=5 CyclicSolver executed successfully.
+Task for problem 14-3 L=5 CyclicSolver executed successfully.
+Task for problem 14-4 L=5 CyclicSolver executed successfully.
+Task for problem 14-5 L=5 CyclicSolver executed successfully.
+Task for problem 14-6 L=5 CyclicSolver executed successfully.
+Task for problem 14-7 L=5 CyclicSolver executed successfully.
+Task for problem 14-8 L=5 CyclicSolver executed successfully.
+Task for problem 14-9 L=5 CyclicSolver executed successfully.
+14-0, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+14-1, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+14-2, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+14-3, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+14-4, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+14-5, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+14-6, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+14-7, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+14-8, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+14-9, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Task for problem 14-0 L=5 HeaSolver executed successfully.
+Task for problem 14-1 L=5 HeaSolver executed successfully.
+Task for problem 14-2 L=5 HeaSolver executed successfully.
+Task for problem 14-3 L=5 HeaSolver executed successfully.
+Task for problem 14-4 L=5 HeaSolver executed successfully.
+Task for problem 14-5 L=5 HeaSolver executed successfully.
+Task for problem 14-6 L=5 HeaSolver executed successfully.
+Task for problem 14-7 L=5 HeaSolver executed successfully.
+Task for problem 14-8 L=5 HeaSolver executed successfully.
+Task for problem 14-9 L=5 HeaSolver executed successfully.
+14-0, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+14-1, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+14-2, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+14-3, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+14-4, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+14-5, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+14-6, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+14-7, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+14-8, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+14-9, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Task for problem 14-0 L=1 ChocoSolver executed successfully.
+Task for problem 14-1 L=1 ChocoSolver executed successfully.
+Task for problem 14-2 L=1 ChocoSolver executed successfully.
+Task for problem 14-3 L=1 ChocoSolver executed successfully.
+Task for problem 14-4 L=1 ChocoSolver executed successfully.
+Task for problem 14-5 L=1 ChocoSolver executed successfully.
+Task for problem 14-6 L=1 ChocoSolver executed successfully.
+Task for problem 14-7 L=1 ChocoSolver executed successfully.
+Task for problem 14-8 L=1 ChocoSolver executed successfully.
+Task for problem 14-9 L=1 ChocoSolver executed successfully.
+15-0, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+15-1, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+15-2, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+15-3, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+15-4, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+15-5, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+15-6, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+15-7, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+15-8, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+15-9, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Task for problem 15-0 L=5 PenaltySolver executed successfully.
+Task for problem 15-1 L=5 PenaltySolver executed successfully.
+Task for problem 15-2 L=5 PenaltySolver executed successfully.
+Task for problem 15-3 L=5 PenaltySolver executed successfully.
+Task for problem 15-4 L=5 PenaltySolver executed successfully.
+Task for problem 15-5 L=5 PenaltySolver executed successfully.
+Task for problem 15-6 L=5 PenaltySolver executed successfully.
+Task for problem 15-7 L=5 PenaltySolver executed successfully.
+Task for problem 15-8 L=5 PenaltySolver executed successfully.
+Task for problem 15-9 L=5 PenaltySolver executed successfully.
+15-0, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+15-1, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+15-2, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+15-3, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+15-4, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+15-5, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+15-6, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+15-7, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+15-8, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+15-9, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Task for problem 15-0 L=5 CyclicSolver executed successfully.
+Task for problem 15-1 L=5 CyclicSolver executed successfully.
+Task for problem 15-2 L=5 CyclicSolver executed successfully.
+Task for problem 15-3 L=5 CyclicSolver executed successfully.
+Task for problem 15-4 L=5 CyclicSolver executed successfully.
+Task for problem 15-5 L=5 CyclicSolver executed successfully.
+Task for problem 15-6 L=5 CyclicSolver executed successfully.
+Task for problem 15-7 L=5 CyclicSolver executed successfully.
+Task for problem 15-8 L=5 CyclicSolver executed successfully.
+Task for problem 15-9 L=5 CyclicSolver executed successfully.
+15-0, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+15-1, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+15-2, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+15-3, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+15-4, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+15-5, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+15-6, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+15-7, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+15-8, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+15-9, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Task for problem 15-0 L=5 HeaSolver executed successfully.
+Task for problem 15-1 L=5 HeaSolver executed successfully.
+Task for problem 15-2 L=5 HeaSolver executed successfully.
+Task for problem 15-3 L=5 HeaSolver executed successfully.
+Task for problem 15-4 L=5 HeaSolver executed successfully.
+Task for problem 15-5 L=5 HeaSolver executed successfully.
+Task for problem 15-6 L=5 HeaSolver executed successfully.
+Task for problem 15-7 L=5 HeaSolver executed successfully.
+Task for problem 15-8 L=5 HeaSolver executed successfully.
+Task for problem 15-9 L=5 HeaSolver executed successfully.
+15-0, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+15-1, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+15-2, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+15-3, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+15-4, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+15-5, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+15-6, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+15-7, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+15-8, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+15-9, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Task for problem 15-0 L=1 ChocoSolver executed successfully.
+Task for problem 15-1 L=1 ChocoSolver executed successfully.
+Task for problem 15-2 L=1 ChocoSolver executed successfully.
+Task for problem 15-3 L=1 ChocoSolver executed successfully.
+Task for problem 15-4 L=1 ChocoSolver executed successfully.
+Task for problem 15-5 L=1 ChocoSolver executed successfully.
+Task for problem 15-6 L=1 ChocoSolver executed successfully.
+Task for problem 15-7 L=1 ChocoSolver executed successfully.
+Task for problem 15-8 L=1 ChocoSolver executed successfully.
+Task for problem 15-9 L=1 ChocoSolver executed successfully.
+16-0, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+16-1, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+16-2, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+16-3, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+16-4, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+16-5, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+16-6, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+16-7, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+16-8, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+16-9, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Task for problem 16-0 L=5 PenaltySolver executed successfully.
+Task for problem 16-1 L=5 PenaltySolver executed successfully.
+Task for problem 16-2 L=5 PenaltySolver executed successfully.
+Task for problem 16-3 L=5 PenaltySolver executed successfully.
+Task for problem 16-4 L=5 PenaltySolver executed successfully.
+Task for problem 16-5 L=5 PenaltySolver executed successfully.
+Task for problem 16-6 L=5 PenaltySolver executed successfully.
+Task for problem 16-7 L=5 PenaltySolver executed successfully.
+Task for problem 16-8 L=5 PenaltySolver executed successfully.
+Task for problem 16-9 L=5 PenaltySolver executed successfully.
+16-0, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+16-1, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+16-2, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+16-3, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+16-4, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+16-5, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+16-6, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+16-7, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+16-8, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+16-9, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Task for problem 16-0 L=5 CyclicSolver executed successfully.
+Task for problem 16-1 L=5 CyclicSolver executed successfully.
+Task for problem 16-2 L=5 CyclicSolver executed successfully.
+Task for problem 16-3 L=5 CyclicSolver executed successfully.
+Task for problem 16-4 L=5 CyclicSolver executed successfully.
+Task for problem 16-5 L=5 CyclicSolver executed successfully.
+Task for problem 16-6 L=5 CyclicSolver executed successfully.
+Task for problem 16-7 L=5 CyclicSolver executed successfully.
+Task for problem 16-8 L=5 CyclicSolver executed successfully.
+Task for problem 16-9 L=5 CyclicSolver executed successfully.
+16-0, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+16-1, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+16-2, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+16-3, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+16-4, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+16-5, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+16-6, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+16-7, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+16-8, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+16-9, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Task for problem 16-0 L=5 HeaSolver executed successfully.
+Task for problem 16-1 L=5 HeaSolver executed successfully.
+Task for problem 16-2 L=5 HeaSolver executed successfully.
+Task for problem 16-3 L=5 HeaSolver executed successfully.
+Task for problem 16-4 L=5 HeaSolver executed successfully.
+Task for problem 16-5 L=5 HeaSolver executed successfully.
+Task for problem 16-6 L=5 HeaSolver executed successfully.
+Task for problem 16-7 L=5 HeaSolver executed successfully.
+Task for problem 16-8 L=5 HeaSolver executed successfully.
+Task for problem 16-9 L=5 HeaSolver executed successfully.
+16-0, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+16-1, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+16-2, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+16-3, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+16-4, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+16-5, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+16-6, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+16-7, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+16-8, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+16-9, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Task for problem 16-0 L=1 ChocoSolver executed successfully.
+Task for problem 16-1 L=1 ChocoSolver executed successfully.
+Task for problem 16-2 L=1 ChocoSolver executed successfully.
+Task for problem 16-3 L=1 ChocoSolver executed successfully.
+Task for problem 16-4 L=1 ChocoSolver executed successfully.
+Task for problem 16-5 L=1 ChocoSolver executed successfully.
+Task for problem 16-6 L=1 ChocoSolver executed successfully.
+Task for problem 16-7 L=1 ChocoSolver executed successfully.
+Task for problem 16-8 L=1 ChocoSolver executed successfully.
+Task for problem 16-9 L=1 ChocoSolver executed successfully.
+17-0, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+17-1, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+17-2, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+17-3, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+17-4, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+17-5, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+17-6, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+17-7, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+17-8, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+17-9, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Task for problem 17-0 L=5 PenaltySolver executed successfully.
+Task for problem 17-1 L=5 PenaltySolver executed successfully.
+Task for problem 17-2 L=5 PenaltySolver executed successfully.
+Task for problem 17-3 L=5 PenaltySolver executed successfully.
+Task for problem 17-4 L=5 PenaltySolver executed successfully.
+Task for problem 17-5 L=5 PenaltySolver executed successfully.
+Task for problem 17-6 L=5 PenaltySolver executed successfully.
+Task for problem 17-7 L=5 PenaltySolver executed successfully.
+Task for problem 17-8 L=5 PenaltySolver executed successfully.
+Task for problem 17-9 L=5 PenaltySolver executed successfully.
+17-0, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+17-1, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+17-2, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+17-3, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+17-4, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+17-5, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+17-6, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+17-7, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+17-8, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+17-9, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Task for problem 17-0 L=5 CyclicSolver executed successfully.
+Task for problem 17-1 L=5 CyclicSolver executed successfully.
+Task for problem 17-2 L=5 CyclicSolver executed successfully.
+Task for problem 17-3 L=5 CyclicSolver executed successfully.
+Task for problem 17-4 L=5 CyclicSolver executed successfully.
+Task for problem 17-5 L=5 CyclicSolver executed successfully.
+Task for problem 17-6 L=5 CyclicSolver executed successfully.
+Task for problem 17-7 L=5 CyclicSolver executed successfully.
+Task for problem 17-8 L=5 CyclicSolver executed successfully.
+Task for problem 17-9 L=5 CyclicSolver executed successfully.
+17-0, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+17-1, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+17-2, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+17-3, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+17-4, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+17-5, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+17-6, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+17-7, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+17-8, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+17-9, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Task for problem 17-0 L=5 HeaSolver executed successfully.
+Task for problem 17-1 L=5 HeaSolver executed successfully.
+Task for problem 17-2 L=5 HeaSolver executed successfully.
+Task for problem 17-3 L=5 HeaSolver executed successfully.
+Task for problem 17-4 L=5 HeaSolver executed successfully.
+Task for problem 17-5 L=5 HeaSolver executed successfully.
+Task for problem 17-6 L=5 HeaSolver executed successfully.
+Task for problem 17-7 L=5 HeaSolver executed successfully.
+Task for problem 17-8 L=5 HeaSolver executed successfully.
+Task for problem 17-9 L=5 HeaSolver executed successfully.
+17-0, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+17-1, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+17-2, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+17-3, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+17-4, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+17-5, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+17-6, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+17-7, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+17-8, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+17-9, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Task for problem 17-0 L=1 ChocoSolver executed successfully.
+Task for problem 17-1 L=1 ChocoSolver executed successfully.
+Task for problem 17-2 L=1 ChocoSolver executed successfully.
+Task for problem 17-3 L=1 ChocoSolver executed successfully.
+Task for problem 17-4 L=1 ChocoSolver executed successfully.
+Task for problem 17-5 L=1 ChocoSolver executed successfully.
+Task for problem 17-6 L=1 ChocoSolver executed successfully.
+Task for problem 17-7 L=1 ChocoSolver executed successfully.
+Task for problem 17-8 L=1 ChocoSolver executed successfully.
+Task for problem 17-9 L=1 ChocoSolver executed successfully.
+18-0, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+18-1, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+18-2, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+18-3, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+18-4, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+18-5, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+18-6, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+18-7, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+18-8, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+18-9, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Task for problem 18-0 L=5 PenaltySolver executed successfully.
+Task for problem 18-1 L=5 PenaltySolver executed successfully.
+Task for problem 18-2 L=5 PenaltySolver executed successfully.
+Task for problem 18-3 L=5 PenaltySolver executed successfully.
+Task for problem 18-4 L=5 PenaltySolver executed successfully.
+Task for problem 18-5 L=5 PenaltySolver executed successfully.
+Task for problem 18-6 L=5 PenaltySolver executed successfully.
+Task for problem 18-7 L=5 PenaltySolver executed successfully.
+Task for problem 18-8 L=5 PenaltySolver executed successfully.
+Task for problem 18-9 L=5 PenaltySolver executed successfully.
+18-0, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+18-1, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+18-2, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+18-3, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+18-4, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+18-5, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+18-6, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+18-7, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+18-8, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+18-9, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Task for problem 18-0 L=5 CyclicSolver executed successfully.
+Task for problem 18-1 L=5 CyclicSolver executed successfully.
+Task for problem 18-2 L=5 CyclicSolver executed successfully.
+Task for problem 18-3 L=5 CyclicSolver executed successfully.
+Task for problem 18-4 L=5 CyclicSolver executed successfully.
+Task for problem 18-5 L=5 CyclicSolver executed successfully.
+Task for problem 18-6 L=5 CyclicSolver executed successfully.
+Task for problem 18-7 L=5 CyclicSolver executed successfully.
+Task for problem 18-8 L=5 CyclicSolver executed successfully.
+Task for problem 18-9 L=5 CyclicSolver executed successfully.
+18-0, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+18-1, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+18-2, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+18-3, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+18-4, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+18-5, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+18-6, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+18-7, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+18-8, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+18-9, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Task for problem 18-0 L=5 HeaSolver executed successfully.
+Task for problem 18-1 L=5 HeaSolver executed successfully.
+Task for problem 18-2 L=5 HeaSolver executed successfully.
+Task for problem 18-3 L=5 HeaSolver executed successfully.
+Task for problem 18-4 L=5 HeaSolver executed successfully.
+Task for problem 18-5 L=5 HeaSolver executed successfully.
+Task for problem 18-6 L=5 HeaSolver executed successfully.
+Task for problem 18-7 L=5 HeaSolver executed successfully.
+Task for problem 18-8 L=5 HeaSolver executed successfully.
+Task for problem 18-9 L=5 HeaSolver executed successfully.
+18-0, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+18-1, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+18-2, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+18-3, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+18-4, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+18-5, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+18-6, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+18-7, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+18-8, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+18-9, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Task for problem 18-0 L=1 ChocoSolver executed successfully.
+Task for problem 18-1 L=1 ChocoSolver executed successfully.
+Task for problem 18-2 L=1 ChocoSolver executed successfully.
+Task for problem 18-3 L=1 ChocoSolver executed successfully.
+Task for problem 18-4 L=1 ChocoSolver executed successfully.
+Task for problem 18-5 L=1 ChocoSolver executed successfully.
+Task for problem 18-6 L=1 ChocoSolver executed successfully.
+Task for problem 18-7 L=1 ChocoSolver executed successfully.
+Task for problem 18-8 L=1 ChocoSolver executed successfully.
+Task for problem 18-9 L=1 ChocoSolver executed successfully.
+19-0, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+19-1, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+19-2, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+19-3, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+19-4, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+19-5, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+19-6, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+19-7, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+19-8, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+19-9, 5, <class 'chocoq.solvers.qiskit.penalty.PenaltySolver'> build
+Task for problem 19-0 L=5 PenaltySolver executed successfully.
+Task for problem 19-1 L=5 PenaltySolver executed successfully.
+Task for problem 19-2 L=5 PenaltySolver executed successfully.
+Task for problem 19-3 L=5 PenaltySolver executed successfully.
+Task for problem 19-4 L=5 PenaltySolver executed successfully.
+Task for problem 19-5 L=5 PenaltySolver executed successfully.
+Task for problem 19-6 L=5 PenaltySolver executed successfully.
+Task for problem 19-7 L=5 PenaltySolver executed successfully.
+Task for problem 19-8 L=5 PenaltySolver executed successfully.
+Task for problem 19-9 L=5 PenaltySolver executed successfully.
+19-0, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+19-1, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+19-2, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+19-3, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+19-4, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+19-5, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+19-6, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+19-7, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+19-8, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+19-9, 5, <class 'chocoq.solvers.qiskit.cyclic.CyclicSolver'> build
+Task for problem 19-0 L=5 CyclicSolver executed successfully.
+Task for problem 19-1 L=5 CyclicSolver executed successfully.
+Task for problem 19-2 L=5 CyclicSolver executed successfully.
+Task for problem 19-3 L=5 CyclicSolver executed successfully.
+Task for problem 19-4 L=5 CyclicSolver executed successfully.
+Task for problem 19-5 L=5 CyclicSolver executed successfully.
+Task for problem 19-6 L=5 CyclicSolver executed successfully.
+Task for problem 19-7 L=5 CyclicSolver executed successfully.
+Task for problem 19-8 L=5 CyclicSolver executed successfully.
+Task for problem 19-9 L=5 CyclicSolver executed successfully.
+19-0, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+19-1, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+19-2, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+19-3, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+19-4, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+19-5, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+19-6, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+19-7, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+19-8, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+19-9, 5, <class 'chocoq.solvers.qiskit.hea.HeaSolver'> build
+Task for problem 19-0 L=5 HeaSolver executed successfully.
+Task for problem 19-1 L=5 HeaSolver executed successfully.
+Task for problem 19-2 L=5 HeaSolver executed successfully.
+Task for problem 19-3 L=5 HeaSolver executed successfully.
+Task for problem 19-4 L=5 HeaSolver executed successfully.
+Task for problem 19-5 L=5 HeaSolver executed successfully.
+Task for problem 19-6 L=5 HeaSolver executed successfully.
+Task for problem 19-7 L=5 HeaSolver executed successfully.
+Task for problem 19-8 L=5 HeaSolver executed successfully.
+Task for problem 19-9 L=5 HeaSolver executed successfully.
+19-0, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+Restricted license - for non-production use only - expires 2025-11-24
+/home/jiangqifan/Codes/ea/Choco-Q/implementations/2_table_all_scale.py:262: RuntimeWarning: divide by zero encountered in scalar divide
+  for method in methods:
+/home/jiangqifan/Codes/ea/Choco-Q/implementations/2_table_all_scale.py:262: RuntimeWarning: invalid value encountered in scalar divide
+  for method in methods:
+19-1, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+19-2, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+19-3, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+19-4, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+19-5, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+19-6, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+19-7, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+19-8, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+19-9, 1, <class 'chocoq.solvers.qiskit.choco.ChocoSolver'> build
+Task for problem 19-0 L=1 ChocoSolver executed successfully.
+Task for problem 19-1 L=1 ChocoSolver executed successfully.
+Task for problem 19-2 L=1 ChocoSolver executed successfully.
+Task for problem 19-3 L=1 ChocoSolver executed successfully.
+Task for problem 19-4 L=1 ChocoSolver executed successfully.
+Task for problem 19-5 L=1 ChocoSolver executed successfully.
+Task for problem 19-6 L=1 ChocoSolver executed successfully.
+Task for problem 19-7 L=1 ChocoSolver executed successfully.
+Task for problem 19-8 L=1 ChocoSolver executed successfully.
+Task for problem 19-9 L=1 ChocoSolver executed successfully.
+Data has been written to 2_table_evaluate_all_scale.csv
+58152.80470525706
+                           best_solution_probs                         \
+                                 PenaltySolver CyclicSolver HeaSolver   
+pkid variables constraints                                              
+0    6         3                      4.833984     8.603516  2.480469   
+1    15        8                      0.273438     2.578125  0.000000   
+2    21        12                     0.000000     0.087891  0.000000   
+3    28        15                     0.000000     0.107422  0.000000   
+4    12        6                      0.429688     2.246094  0.068359   
+5    15        9                      0.068359     0.029297  0.000000   
+6    20        8                      0.000000     0.000000  0.009766   
+7    24        12                     0.000000     0.000000  0.000000   
+8    8         6                      3.088379     9.155273  1.892090   
+9    15        8                      0.009766     0.000000  0.000000   
+10   18        9                      0.000000     0.009766  0.000000   
+11   21        10                     0.000000     0.000000  0.000000   
+12   7         4                      1.972656    19.736328  3.710938   
+13   10        5                      0.156250     0.478516  0.283203   
+14   14        6                      0.058594     0.029297  0.000000   
+15   18        7                      0.000000     0.000000  0.000000   
+16   9         4                      3.554688     7.978516  1.318359   
+17   12        5                      0.312500     1.601562  0.048828   
+18   16        6                      0.126953     0.224609  0.029297   
+19   20        7                      0.039062     0.068359  0.009766   
+
+                                       in_constraints_probs               \
+                           ChocoSolver        PenaltySolver CyclicSolver   
+pkid variables constraints                                                 
+0    6         3             25.888672            20.615234    39.697266   
+1    15        8             43.623047             0.703125    15.087891   
+2    21        12            32.890625             0.009766     1.601562   
+3    28        15            32.431641             0.000000     3.398438   
+4    12        6             31.142578             2.304688    37.285156   
+5    15        9             15.429688             0.224609    60.078125   
+6    20        8             11.083984             0.068359    60.322266   
+7    24        12             1.826172             0.166016    59.658203   
+8    8         6             65.539551             7.421875    39.318848   
+9    15        8             10.009766             0.166016    99.814453   
+10   18        9             23.398438             0.078125    89.941406   
+11   21        10             0.010851             0.000000    88.834635   
+12   7         4             59.960938             6.240234    40.361328   
+13   10        5             19.990234             2.617188    43.710938   
+14   14        6              2.236328             0.468750    12.412109   
+15   18        7              0.000000             0.107422    10.800781   
+16   9         4             70.000000             7.578125    18.017578   
+17   12        5             30.732422             3.105469     8.916016   
+18   16        6              0.888672             1.103516     2.988281   
+19   20        7              0.107422             2.460938     3.300781   
+
+                                                            ARG               \
+                            HeaSolver ChocoSolver PenaltySolver CyclicSolver   
+pkid variables constraints                                                     
+0    6         3            19.658203  100.000000     55.029360    31.302092   
+1    15        8             0.039062  100.000000    122.521642    62.789468   
+2    21        12            0.000000  100.000000    121.192336    83.195253   
+3    28        15            0.000000  100.000000    173.947101    68.467547   
+4    12        6             0.322266  100.000000    140.079153    46.970682   
+5    15        9             0.029297  100.000000    200.170369    67.395459   
+6    20        8             0.019531  100.000000    312.712328    27.661577   
+7    24        12            0.009766  100.000000    350.910466    35.408458   
+8    8         6             4.296875  100.000000    273.552323   146.875039   
+9    15        8             0.097656  100.000000    601.103720     2.101844   
+10   18        9             0.029297  100.000000    446.409800    12.311550   
+11   21        10            0.000000  100.000000    655.396719    17.885884   
+12   7         4             9.228516  100.000000     72.353139    35.077778   
+13   10        5             1.699219  100.000000    225.929791    80.332642   
+14   14        6             0.322266  100.000000    122.061541    46.312886   
+15   18        7             0.039062  100.000000    258.725069    81.898626   
+16   9         4             4.287109  100.000000    697.995992   421.613425   
+17   12        5             1.240234  100.000000    855.203772   651.033086   
+18   16        6             0.361328   92.080078   1088.289383   862.122669   
+19   20        7             0.136719   99.970703   1358.987119  1019.059745   
+
+                                                     
+                              HeaSolver ChocoSolver  
+pkid variables constraints                           
+0    6         3              56.705632    0.629089  
+1    15        8             181.071906    0.364149  
+2    21        12            186.383931    0.315731  
+3    28        15            244.998173    0.301608  
+4    12        6             199.269605    0.659363  
+5    15        9             272.468086    0.991734  
+6    20        8             408.974028    1.494391  
+7    24        12            544.673882    1.583053  
+8    8         6             316.271615    1.062577  
+9    15        8             668.392500    1.540401  
+10   18        9             489.299085    1.106645  
+11   21        10            694.815573    1.518497  
+12   7         4              76.150092    0.237285  
+13   10        5             308.925773    1.229620  
+14   14        6             166.000193    0.385291  
+15   18        7             405.682791    0.946980  
+16   9         4             826.902681    0.200098  
+17   12        5            1062.993468    0.476074  
+18   16        6            1347.998806   23.418099  
+19   20        7            1752.071037    1.546826  
+              improvement_best_solution_probs  improvement_in_constraints_probs  improvement_ARG
+method                                                                        
+CyclicSolver                        252.959259	13.313435	366.984321

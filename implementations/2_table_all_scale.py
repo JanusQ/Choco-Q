@@ -249,10 +249,9 @@ pivot_df = pivot_df.reindex(columns=pd.MultiIndex.from_product([["best_solution_
 
 print(pivot_df)
 
-# Row-wise ratio calculation
-# methods = ['PenaltySolver', 'CyclicSolver', 'HeaSolver']
+# Row-wise improvement calculation
 methods = ['CyclicSolver']
-ratios_rowwise = []
+improvements_rowwise = []
 
 for idx, row in pivot_df.iterrows():
     choco_best_solution_probs = row['best_solution_probs', 'ChocoSolver']
@@ -260,23 +259,27 @@ for idx, row in pivot_df.iterrows():
     choco_ARG = row['ARG', 'ChocoSolver']
 
     for method in methods:
-        ratio_best_solution_probs = choco_best_solution_probs / row['best_solution_probs', method]
-        ratio_in_constraints_probs = choco_in_constraints_probs / row['in_constraints_probs', method]
-        ratio_ARG = row['ARG', method] / choco_ARG
-        
-        ratios_rowwise.append({
-            'pkid': row.name[0], 
-            'variables': row.name[1], 
-            'constraints': row.name[2],
-            'method': method,
-            'ratio_best_solution_probs': ratio_best_solution_probs,
-            'ratio_in_constraints_probs': ratio_in_constraints_probs,
-            'ratio_ARG': ratio_ARG
-        })
+        # Avoid division by zero and infinite values
+        if row['best_solution_probs', method] != 0 and row['in_constraints_probs', method] != 0 and choco_ARG != 0:
+            improvement_best_solution_probs = choco_best_solution_probs / row['best_solution_probs', method]
+            improvement_in_constraints_probs = choco_in_constraints_probs / row['in_constraints_probs', method]
+            improvement_ARG = row['ARG', method] / choco_ARG
+
+            # Check for finite values
+            if np.isfinite(improvement_best_solution_probs) and np.isfinite(improvement_in_constraints_probs) and np.isfinite(improvement_ARG):
+                improvements_rowwise.append({
+                    'pkid': row.name[0], 
+                    'variables': row.name[1], 
+                    'constraints': row.name[2],
+                    'method': method,
+                    'improvement_best_solution_probs': improvement_best_solution_probs,
+                    'improvement_in_constraints_probs': improvement_in_constraints_probs,
+                    'improvement_ARG': improvement_ARG
+                })
 
 # Convert the result into a DataFrame
-ratios_rowwise_df = pd.DataFrame(ratios_rowwise)
+improvements_rowwise_df = pd.DataFrame(improvements_rowwise)
 
-# Calculate the average ratio for each metric
-ratios_avg_df = ratios_rowwise_df.groupby('method').mean()[['ratio_best_solution_probs', 'ratio_in_constraints_probs', 'ratio_ARG']]
-print(ratios_avg_df)
+# Calculate the average improvement for each metric
+improvements_avg_df = improvements_rowwise_df.groupby('method').mean()[['improvement_best_solution_probs', 'improvement_in_constraints_probs', 'improvement_ARG']]
+print(improvements_avg_df)
