@@ -29,12 +29,10 @@ problem_scale = 4 # The problem scale, 1 is the minimal scale like F1,K1,G1 in T
 #2 means F2 K2 ... In CPU version, this benchmarks with higher scale is much slower when solving with baselines.
 
 flp_problems_pkg, flp_configs_pkg = generate_flp(num_cases, [(1, 2), (2, 3), (3, 3), (3, 4)][:problem_scale], 1, 20)
-gcp_problems_pkg, gcp_configs_pkg = generate_gcp(num_cases, [(3, 1), (3, 2), (4, 1), (4, 2)][:problem_scale])
-kpp_problems_pkg, kpp_configs_pkg = generate_kpp(num_cases, [(4, 2, 3), (5, 3, 4), (6, 3, 5), (7, 3, 6)][:problem_scale], 1, 20)
-jsp_problems_pkg, jsp_configs_pkg = generate_jsp(num_cases, [(2, 2, 3), (2, 3, 4), (3, 3, 5), (3, 4, 6)][:problem_scale], 1, 20)
-scp_problems_pkg, scp_configs_pkg = generate_scp(num_cases, [(4, 4), (5, 5), (6, 6), (7, 7)][:problem_scale])
+gcp_problems_pkg, gcp_configs_pkg = generate_gcp(num_cases, [(3, 1), (3, 2), (4, 2), (4, 3)][:problem_scale])
+kpp_problems_pkg, kpp_configs_pkg = generate_kpp(num_cases, [(4, 2, 3), (6, 3, 5), (8, 3, 7), (9, 3, 8)][:problem_scale], 1, 20)
 
-configs_pkg = flp_configs_pkg + gcp_configs_pkg + kpp_configs_pkg + jsp_configs_pkg + scp_configs_pkg
+configs_pkg = flp_configs_pkg + gcp_configs_pkg + kpp_configs_pkg
 with open(f"2_table_all_scale.config", "w") as file:
     for pkid, configs in enumerate(configs_pkg):
         for problem in configs:
@@ -42,7 +40,7 @@ with open(f"2_table_all_scale.config", "w") as file:
 
 new_path = '2_table_depth_all_scale'
 
-problems_pkg = flp_problems_pkg + gcp_problems_pkg + kpp_problems_pkg + jsp_problems_pkg + scp_problems_pkg
+problems_pkg = flp_problems_pkg + gcp_problems_pkg + kpp_problems_pkg
 
 metrics_lst = ['culled_depth', 'num_params']
 solvers = [PenaltySolver, CyclicSolver, HeaSolver, ChocoSolver]
@@ -136,8 +134,6 @@ problems_pkg = list(
         enumerate(flp_problems_pkg),
         enumerate(gcp_problems_pkg),
         enumerate(kpp_problems_pkg),
-        enumerate(jsp_problems_pkg),
-        enumerate(scp_problems_pkg),
     )
 )
 
@@ -228,58 +224,88 @@ if __name__ == '__main__':
     print(f'Data has been written to {new_path}.csv')
     print(time.perf_counter()- all_start_time)
 
-df = pd.read_csv('2_table_evaluate_all_scale.csv')
 
-df = df.drop(columns=['pbid'])
-df = df[df['ARG'] <= 100000]
+file_path1 = '2_table_depth_all_scale.csv'
+df1 = pd.read_csv(file_path1)
 
-grouped_df = df.groupby(['pkid', 'layers', 'variables', 'constraints', 'method'], as_index=False).agg({
+grouped_df1 = df1.groupby(['pkid', 'layers', 'method'], as_index=False).agg({
+    "culled_depth": 'mean',
+})
+
+pivot_df1 = grouped_df1.pivot(index=['pkid'], columns='method', values=["culled_depth"])
+
+method_order1 = ['PenaltySolver', 'CyclicSolver', 'HeaSolver', 'ChocoSolver']
+pivot_df1 = pivot_df1.reindex(columns=pd.MultiIndex.from_product([["culled_depth"], method_order1]))
+
+file_path2 = '2_table_evaluate_all_scale.csv'
+df2 = pd.read_csv(file_path2)
+
+df2 = df2.drop(columns=['pbid'])
+df2 = df2[df2['ARG'] <= 100000]
+
+grouped_df2 = df2.groupby(['pkid', 'layers', 'variables', 'constraints', 'method'], as_index=False).agg({
     "ARG": 'mean',
     'in_constraints_probs': 'mean',
     'best_solution_probs': 'mean',
-    'iteration_count':'mean',
-    'classcial':'mean',
-    'run_times':'mean',
+    'iteration_count': 'mean',
+    'classcial': 'mean',
+    'run_times': 'mean',
 })
 
-## 分组并把组作为索引
-pivot_df = grouped_df.pivot(index =['pkid', 'variables', 'constraints'], columns='method', values=["best_solution_probs",'in_constraints_probs', 'ARG'])
-method_order = ['PenaltySolver', 'CyclicSolver', 'HeaSolver', 'ChocoSolver']
-pivot_df = pivot_df.reindex(columns=pd.MultiIndex.from_product([["best_solution_probs",'in_constraints_probs', 'ARG'], method_order]))
+pivot_df2 = grouped_df2.pivot(index=['pkid', 'variables', 'constraints'], columns='method', values=["best_solution_probs", 'in_constraints_probs', 'ARG'])
 
-print(pivot_df)
+method_order2 = ['PenaltySolver', 'CyclicSolver', 'HeaSolver', 'ChocoSolver']
+pivot_df2 = pivot_df2.reindex(columns=pd.MultiIndex.from_product([["best_solution_probs", 'in_constraints_probs', 'ARG'], method_order2]))
 
-# Row-wise improvement calculation
-methods = ['CyclicSolver']
-improvements_rowwise = []
+merged_df = pd.merge(pivot_df1, pivot_df2, on='pkid', how='inner')
 
-for idx, row in pivot_df.iterrows():
-    choco_best_solution_probs = row['best_solution_probs', 'ChocoSolver']
-    choco_in_constraints_probs = row['in_constraints_probs', 'ChocoSolver']
-    choco_ARG = row['ARG', 'ChocoSolver']
+merged_df = merged_df[['culled_depth', 'best_solution_probs', 'in_constraints_probs']]
+merged_df = merged_df.rename(columns={
+    'culled_depth': 'Circuit depth',
+    'best_solution_probs': 'Success rate (%)',
+    'in_constraints_probs': 'In-constraints rate (%)'
+})
 
-    for method in methods:
-        # Avoid division by zero and infinite values
-        if row['best_solution_probs', method] != 0 and row['in_constraints_probs', method] != 0 and choco_ARG != 0:
-            improvement_best_solution_probs = choco_best_solution_probs / row['best_solution_probs', method]
-            improvement_in_constraints_probs = choco_in_constraints_probs / row['in_constraints_probs', method]
-            improvement_ARG = row['ARG', method] / choco_ARG
+merged_df = merged_df.rename(columns={
+    'PenaltySolver': 'Penalty',
+    'CyclicSolver': 'Cyclic',
+    'HeaSolver': 'HEA',
+    'ChocoSolver': 'Choco-Q'
+})
 
-            # Check for finite values
-            if np.isfinite(improvement_best_solution_probs) and np.isfinite(improvement_in_constraints_probs) and np.isfinite(improvement_ARG):
-                improvements_rowwise.append({
-                    'pkid': row.name[0], 
-                    'variables': row.name[1], 
-                    'constraints': row.name[2],
-                    'method': method,
-                    'improvement_best_solution_probs': improvement_best_solution_probs,
-                    'improvement_in_constraints_probs': improvement_in_constraints_probs,
-                    'improvement_ARG': improvement_ARG
-                })
+merged_df.index = ['F1', 'F2', 'F3', 'F4', 'G1', 'G2', 'G3', 'G4', 'K1', 'K2', 'K3', 'K4']
 
-# Convert the result into a DataFrame
-improvements_rowwise_df = pd.DataFrame(improvements_rowwise)
+print(merged_df)
+
+import pandas as pd
+
+# Assuming 'merged_df' already contains the necessary data (after the previous steps)
+
+# Calculate the improvement for each row
+
+# Circuit depth improvement: cyclic / Choco-Q
+merged_df['Circuit_depth_improvement'] = merged_df[('Circuit depth', 'Cyclic')] / merged_df[('Circuit depth', 'Choco-Q')]
+
+# Success rate improvement: Choco-Q / cyclic
+merged_df['Success_rate_improvement'] = merged_df[('Success rate (%)', 'Choco-Q')] / merged_df[('Success rate (%)', 'Cyclic')]
+
+# In-constraints rate improvement: Choco-Q / cyclic
+merged_df['In_constraints_rate_improvement'] = merged_df[('In-constraints rate (%)', 'Choco-Q')] / merged_df[('In-constraints rate (%)', 'Cyclic')]
+
+# Filter out rows where any improvement column has a zero denominator or zero numerator (to avoid division by zero)
+valid_rows = merged_df[(merged_df[('Circuit depth', 'Cyclic')] != 0) & (merged_df[('Circuit depth', 'Choco-Q')] != 0) &
+                       (merged_df[('Success rate (%)', 'Cyclic')] != 0) & (merged_df[('Success rate (%)', 'Choco-Q')] != 0) &
+                       (merged_df[('In-constraints rate (%)', 'Cyclic')] != 0) & (merged_df[('In-constraints rate (%)', 'Choco-Q')] != 0)]
 
 # Calculate the average improvement for each metric
-improvements_avg_df = improvements_rowwise_df.groupby('method').mean()[['improvement_best_solution_probs', 'improvement_in_constraints_probs', 'improvement_ARG']]
-print(improvements_avg_df)
+avg_circuit_depth_improvement = valid_rows['Circuit_depth_improvement'].mean()
+avg_success_rate_improvement = valid_rows['Success_rate_improvement'].mean()
+avg_in_constraints_rate_improvement = valid_rows['In_constraints_rate_improvement'].mean()
+
+improvement_table = pd.DataFrame({
+    'Circuit Depth': [avg_circuit_depth_improvement],
+    'Success Rate': [avg_success_rate_improvement],
+    'In-constraints Rate': [avg_in_constraints_rate_improvement]
+}, index=['Improvement relative to Cyclic'])
+
+print(improvement_table)
