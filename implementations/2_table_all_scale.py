@@ -225,8 +225,10 @@ if __name__ == '__main__':
     print(time.perf_counter()- all_start_time)
 
 
+import pandas as pd
+
 file_path1 = '2_table_depth_all_scale.csv'
-df1 = pd.read_csv(file_path1)
+df1 = pd.read_csv(file_path1, encoding='utf-8')
 
 grouped_df1 = df1.groupby(['pkid', 'layers', 'method'], as_index=False).agg({
     "culled_depth": 'mean',
@@ -239,12 +241,14 @@ pivot_df1 = pivot_df1.reindex(columns=pd.MultiIndex.from_product([["culled_depth
 
 file_path2 = '2_table_evaluate_all_scale.csv'
 df2 = pd.read_csv(file_path2)
+df2 = df2.drop(columns=['pbid','ARG'])
 
-df2 = df2.drop(columns=['pbid'])
-df2 = df2[df2['ARG'] <= 100000]
 
+df2[['best_solution_probs', 'in_constraints_probs', 'iteration_count',
+     'classcial', 'quantum', 'run_times']] = df2[['best_solution_probs', 'in_constraints_probs', 'iteration_count',
+                                                  'classcial', 'quantum', 'run_times']].apply(pd.to_numeric, errors='coerce')
 grouped_df2 = df2.groupby(['pkid', 'layers', 'variables', 'constraints', 'method'], as_index=False).agg({
-    "ARG": 'mean',
+    # "ARG": 'mean',
     'in_constraints_probs': 'mean',
     'best_solution_probs': 'mean',
     'iteration_count': 'mean',
@@ -252,10 +256,10 @@ grouped_df2 = df2.groupby(['pkid', 'layers', 'variables', 'constraints', 'method
     'run_times': 'mean',
 })
 
-pivot_df2 = grouped_df2.pivot(index=['pkid', 'variables', 'constraints'], columns='method', values=["best_solution_probs", 'in_constraints_probs', 'ARG'])
+pivot_df2 = grouped_df2.pivot(index=['pkid', 'variables', 'constraints'], columns='method', values=["best_solution_probs", 'in_constraints_probs'])
 
 method_order2 = ['PenaltySolver', 'CyclicSolver', 'HeaSolver', 'ChocoSolver']
-pivot_df2 = pivot_df2.reindex(columns=pd.MultiIndex.from_product([["best_solution_probs", 'in_constraints_probs', 'ARG'], method_order2]))
+pivot_df2 = pivot_df2.reindex(columns=pd.MultiIndex.from_product([["best_solution_probs", 'in_constraints_probs'], method_order2]))
 
 merged_df = pd.merge(pivot_df1, pivot_df2, on='pkid', how='inner')
 

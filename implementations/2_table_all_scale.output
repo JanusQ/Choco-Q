@@ -1949,18 +1949,3 @@ Task for problem 11-8 L=1 ChocoSolver executed successfully.
 Task for problem 11-9 L=1 ChocoSolver executed successfully.
 Data has been written to 2_table_evaluate_all_scale.csv
 56748.78593777701
-Traceback (most recent call last):
-  File "/home/jiangqifan/Codes/ae/Choco-Q/implementations/2_table_all_scale.py", line 249, in <module>
-    'best_solution_probs': 'mean',
-  File "/home/jiangqifan/Tools/anaconda3/envs/choco_gpu/lib/python3.10/site-packages/pandas/core/ops/common.py", line 76, in new_method
-    return method(self, other)
-  File "/home/jiangqifan/Tools/anaconda3/envs/choco_gpu/lib/python3.10/site-packages/pandas/core/arraylike.py", line 52, in __le__
-    return self._cmp_method(other, operator.le)
-  File "/home/jiangqifan/Tools/anaconda3/envs/choco_gpu/lib/python3.10/site-packages/pandas/core/series.py", line 6119, in _cmp_method
-    res_values = ops.comparison_op(lvalues, rvalues, op)
-  File "/home/jiangqifan/Tools/anaconda3/envs/choco_gpu/lib/python3.10/site-packages/pandas/core/ops/array_ops.py", line 344, in comparison_op
-    res_values = comp_method_OBJECT_ARRAY(op, lvalues, rvalues)
-  File "/home/jiangqifan/Tools/anaconda3/envs/choco_gpu/lib/python3.10/site-packages/pandas/core/ops/array_ops.py", line 129, in comp_method_OBJECT_ARRAY
-    result = libops.scalar_compare(x.ravel(), y, op)
-  File "ops.pyx", line 107, in pandas._libs.ops.scalar_compare
-TypeError: '<=' not supported between instances of 'str' and 'int'
